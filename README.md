@@ -1,4 +1,4 @@
-<img align="right" width="185" src="./assets/illustation 1.png" />
+<img align="right" width="180" src="./assets/illustation 1.png" />
 
 ```yaml
 > cat profile.yml
