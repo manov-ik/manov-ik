@@ -11,6 +11,8 @@ status: online
 
 ```
 
+---
+
 ```yaml
 > cat about.me
 
