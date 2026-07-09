@@ -30,6 +30,10 @@ recreate apps out of nostalgia, and somehow make it all look intentional.
 
 > The digital loading bay for your LAN. No cloud. No internet. Scan a QR, share files instantly. Ships as a single binary that carries its own frontend.
 
+**[mint](https://github.com/manov-ik/mint)** `next` `framer motion` 
+
+> Mint is a self-hostable, modern, and minimalist daily dashboard designed to track tasks, log recurring habits ("protocols"), and visualize your daily consistency.
+
 **[nml-opti-sthe](https://github.com/manov-ik/nml-opti-sthe)** `python` `ml`
 
 > Machine learning applied to thermal engineering - optimizing shell-and-tube heat exchangers using numerical methods and trained models.
@@ -46,7 +50,7 @@ recreate apps out of nostalgia, and somehow make it all look intentional.
 
 **now working on**
 
-Pushing [landock](https://github.com/manov-ik/landock) toward v2
+Pushing [landock](https://github.com/manov-ik/landock) and [mint](https://github.com/manov-ik/mint) toward v2
 
 ---
 
